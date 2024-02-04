@@ -1,5 +1,7 @@
 # OpenBCI GUI Helpers
 
+Modified by Angus McIntyre for NeuroRecovery Research Hub at UNSW
+
 Helpers for [OpenBCI GUI](https://github.com/OpenBCI/OpenBCI_GUI)
 
 Built using Github Actions for all OS. The .dylib files for Mac are also provided as an artifact. These files should be included in the `libraries` folder outside of the .jar file as shown below. As a result, we do not need to extract them from the .jar file on Mac.
